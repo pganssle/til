@@ -1,0 +1,4 @@
+* Punctuation
+
+- The octothorpe / hash / pound / number symbol (#) is derived from a ligature for lb meaning "pound": ℔ (U+2114). The extra line comes from the fact that a previous scribal notation indicated abbreviations with a "tittle" or overbar. Cite:houston2014shady
+- 
