@@ -2,4 +2,4 @@
 
 - The octothorpe / hash / pound / number symbol (#) is derived from a ligature for lb meaning "pound": ℔ (U+2114). The extra line comes from the fact that a previous scribal notation indicated abbreviations with a "tittle" or overbar. Cite:houston2014shady
 - The practice of indenting new paragraphs came from printers leaving a large space for hand-written pilcrow characters (¶) and other ornamented marks to be added by a "rubricator"; as the volume of printed documents grew not all the empty space was filled, and the indentation itself eventually took over as the way to mark a new paragraph.  Cite:houston2014shady
-
+- In Czech, the word for @ is /zavináč/, which means "[[https://en.wikipedia.org/wiki/Rollmops][rollmop]]" - a type of pickled herring fillet wrapped around a savory filling. Cite:houston2014shady
